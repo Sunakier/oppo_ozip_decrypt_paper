@@ -256,6 +256,7 @@ def display_file_menu(files):
     print("\n" + "="*60)
     print("  OPPO OZIP 解密工具 v1.32")
     print("  OPPO OZIP Decryption Tool")
+    print("  Rewrite By LazyerPaper")
     print("="*60)
 
     if not files:
