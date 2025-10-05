@@ -17,7 +17,6 @@ import binascii
 import glob
 from Crypto.Cipher import AES
 import zipfile
-from os.path import basename
 
 
 # AES keys for various OPPO devices
